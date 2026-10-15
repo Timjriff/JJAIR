@@ -4,3 +4,6 @@
 header .brand img{width:96px;height:96px;flex-shrink:0}
 html{scroll-padding-top:135px}
 @media(max-width:760px){header .brand img{width:76px;height:76px}html{scroll-padding-top:115px}}
+
+/* Subtle header divider */
+header{border-bottom:0.5px solid rgba(255,255,255,0.1)}
